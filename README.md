@@ -1,3 +1,1 @@
 # MapYourNext 
-
-initial commit
