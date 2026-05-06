@@ -6,3 +6,6 @@ This is the React frontend for the MapYourNext application, built with Vite, Tai
 1. Copy `.env.example` to `.env` and fill in any necessary tokens.
 2. Run `npm install`
 3. Run `npm run dev` to start the development server.
+
+## Backend Git Repo
+https://github.com/naveen-sekhar/MapYourNext-backend.git
