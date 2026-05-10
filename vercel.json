@@ -1,0 +1,17 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "env": {
+    "VITE_API_URL": {
+      "description": "Backend API URL",
+      "example": "https://mapyournext-backend.onrender.com"
+    }
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
